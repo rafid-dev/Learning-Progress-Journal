@@ -17,4 +17,3 @@ Things Finny taught me:
     - Finding Area of Circle Using Double Integral
 - Conservation of Momentum and Kinetic Energy
 - Eigenvectors and Eigenvalues
-- Many More Topics
