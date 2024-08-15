@@ -17,6 +17,7 @@ Algebra Topics:
     - Complex numbers in exponential form `z = re^iθ`
     - De Moivre's Theorem `z^n = r^n r(cos(nθ) + i sin(nθ))`
     - `k` nth roots of complex numbers using De Moivre's Theorem
+- Polar Coordinates and Parametric equations
 
 - Logarithmic and Exponential functions
     - Properties of logarithms
