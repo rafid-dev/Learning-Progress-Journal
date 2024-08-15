@@ -4,7 +4,7 @@
 - **Equations, Inequalities, Systems of Equations**
 - **Quadratic Functions**: `ax^2 + bx + c`
 - **Solving Quadratic Equations**
-- **Polynomial Functions**: `P(x) = a_n x^n + a_{n - 1} x^{n - 1} + \cdots + a_1 x + a_0`
+- **Polynomial Functions**: `P(x) = a_n x^n + a_{n - 1} x^{n - 1} + ... + a_1 x + a_0`
 - **Solving Polynomial Equations**
 - **Fundamental Theorem of Algebra**
 - **Rational Functions**: `P(x)/Q(x)`
@@ -13,9 +13,9 @@
 - **Complex Numbers**:
     - Rectangular Form: `a + bi`
     - Properties: Magnitude, Argument
-    - Polar Form: `z = r (\cos(\theta) + i \sin(\theta))`
-    - Exponential Form: `z = re^{i\theta}`
-    - De Moivre's Theorem: `z^n = r^n (\cos(n\theta) + i \sin(n\theta))`
+    - Polar Form: `z = r(cos(θ) + i sin(θ)`
+    - Exponential Form: `z = re^{iθ}`
+    - De Moivre's Theorem: `z^n = r^n (cos(nθ) + i sin(nθ))`
     - *k* *n*th Roots of Complex Numbers
 - **Polar Coordinates and Parametric Equations**
 
