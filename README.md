@@ -1,2 +1,1 @@
-# Learning-Progress-Journal
-This repo tracks my journey in mathematics and physics
+This repository tracks my learning journey in mathematics, physics, and chemistry. It contains organized notes, problem-solving approaches, and key concepts as I progress through these subjects. The goal is to build a solid foundation in these STEM fields, document important insights, and reflect on the learning process over time.
