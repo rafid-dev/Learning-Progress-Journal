@@ -67,3 +67,9 @@ Calculus:
     - Properties of limits
     - Squeeze Theorem
     - ε-δ definition of limits
+
+
+Books I've used: 
+- Precalculus by James Stewart
+- Algebra and Trigonometry by Michael Sullivan 
+- Calculus by James Stewart
