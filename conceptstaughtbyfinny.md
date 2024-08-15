@@ -1,4 +1,6 @@
-Thanks to my friend Finny, who inspired my growing interest in mathematics and physics. Finny taught me:
+Thanks to my friend Finny, whose inspiration sparked my deepening passion for mathematics and physics. Without his influence, I might never have developed such a strong love for these fields.
+
+Things Finny taught me:
 
 - Euler's Identity
 - Derivatives
