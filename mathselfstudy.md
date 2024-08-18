@@ -89,9 +89,9 @@
     - Ellipse Equation: `x^2/a^2 + y^2/b^2 = 1`
 
 ## Linear Algebra
-- **Vectors**
-- **Dot Products**
-- **Vector Projection**
+- **Vectors**   
+    - Dot products, Projections
+    - Motion in 2D and 3D
 
 ## Combinatorics
 - **Permutations and Combinations**
@@ -106,3 +106,4 @@
 - *Precalculus* by James Stewart
 - *Algebra and Trigonometry* by Michael Sullivan
 - *Calculus* by James Stewart
+- *Mathematical Methods in Physical Sciences* by Mary L. Boas
