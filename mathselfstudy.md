@@ -78,7 +78,7 @@
     - Line Equation: `y = mx + b`
     - Slopes, Midline, Parallel Lines, Perpendicular Lines
     - Acute angles formed by two lines by trigonometry
-    - Proof of Perpendicular lines by trigonometry 
+    - Proof of slope of perpendicular lines is the negative reciprocal of other by trigonometry 
 - **Circles**:
     - Circle Equation: `x^2 + y^2 = r^2`
     - Secant and Tangent Lines
