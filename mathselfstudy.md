@@ -10,6 +10,8 @@
 - **Rational Functions**: `P(x)/Q(x)`
     - Graphing Rational Functions
     - Vertical and Horizontal Asymptotes
+    - Slant Asymptotes
+    - End behaviour
 - **Complex Numbers**:
     - Rectangular Form: `a + bi`
     - Properties: Magnitude, Argument
@@ -18,13 +20,15 @@
     - De Moivre's Theorem: `z^n = r^n (cos(nθ) + i sin(nθ))`
     - *k* *n*th Roots of Complex Numbers
 - **Polar Coordinates and Parametric Equations**
+    - Graphing Spirals, Roses using Polar Coordinates
+    - Graphing Parabolas using Parametric Equations
 
 ## Logarithmic and Exponential Functions
 - **Properties of Logarithms**
-- **Change of Base Formula**
 - **Solving Exponential and Logarithmic Equations**
 - **Graphing Logarithmic and Exponential Functions**
 - **Exponential Growth and Decay**
+- **Applications**
 
 ## Sequences and Series
 - **Sigma Notation**
@@ -36,30 +40,58 @@
 - **Binomial Theorem**
 - **Proof by Principle of Mathematical Induction**
 
+- **Limits of Infinite Series**
+
 ## Trigonometry
 - **Radians as a Unit of Angle Measure**
 - **Circle Sector: Arc Length, Central Angle, Area**
-- **Trigonometric Functions**: Defined via the Unit Circle
+- **Trigonometric Functions**: 
+    - Unit circle definition of trignometric functions: sin(θ), cos(θ), tan(θ)
+    - Reciprocal identities: sec(θ), csc(θ), cot(θ)  
+    - Trigonometry table of some angles and their coressponding trigonometric ratios
 - **Inverse Trigonometric Functions**: Restricted Domain
 - **Graphing Trigonometric Functions and Their Inverses**
-- **Right-Angled Triangles**: Application of Trigonometric Functions
-- **Non-Right-Angled Triangles**: Law of Cosines, Law of Sines
-- **Verification of Trigonometric Identities**
+- **Applications of Trigonometric Functions**:
+    - Solving right angled triangles
+    - Solving non right angled triangles
+    - Projectile Motion
+    - Polar Coordinates
+- **Trigonometric Identities**
+    - Pythagorean Identities: 
+        - `sin^2(θ) + cos^2(θ) = 1`
+        - `1 + tan^2(θ) = sec^2(θ)`
+        - `1 + cot^2(θ) = csc^2(θ)`
+    - Even-Odd Identities
+    - Co-Function Identities
+    - Angle Addition/Subtraction Identities
+    - Double Angle, Half Angle Identities
+    - Verification of Trigonometric Identities
 - **Solving Trigonometric Equations**
+    - Solutions in certain range
+    - Full solutions
 - **Harmonic Motion, Damped Harmonic Motion**
+    - Modelling harmonic motion using sinusodial functions
+    - Modelling damped harmonic motion with amplitude of sinusodial functions as exponential decay like `e^-x cos(x)`
 
 ## Analytic Geometry
 - **Straight Lines**:
     - Line Equation: `y = mx + b`
     - Slopes, Midline, Parallel Lines, Perpendicular Lines
+    - Acute angles formed by two lines by trigonometry
+    - Proof of Perpendicular lines by trigonometry 
 - **Circles**:
     - Circle Equation: `x^2 + y^2 = r^2`
     - Secant and Tangent Lines
     - Intersecting Circles
+- **Conics**
+    - Parabola Equation: `y = x^2` and `x = y^2`
+    - Hyperbola Equation: `x^2/a^2 - y^2/b^2 = 1` and `xy = 1`
+    - Ellipse Equation: `x^2/a^2 + y^2/b^2 = 1`
 
 ## Linear Algebra
 - **Vectors**
 - **Dot Products**
+- **Vector Projection**
 
 ## Combinatorics
 - **Permutations and Combinations**
