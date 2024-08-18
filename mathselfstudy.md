@@ -95,7 +95,6 @@
 
 ## Combinatorics
 - **Permutations and Combinations**
-- **Multinomial Theorem**
 
 ## Calculus
 - **Limits**:
