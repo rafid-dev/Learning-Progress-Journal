@@ -101,6 +101,8 @@
     - Properties of Limits
     - Squeeze Theorem
     - ε-δ Definition of Limits
+    - ε-δ Definition of left and right hand limits
+    - ε-δ Definition of infinite limits
 
 ## Books Used
 - *Precalculus* by James Stewart
