@@ -36,11 +36,9 @@
 - ***n*-th Term of Geometric Sequences**
 - **Partial Sum of Arithmetic Series**
 - **Partial Sum of Geometric Series**
-- **Infinite Sum of Geometric Series, Convergence Tests**
+- **Infinite Sum of Geometric Series, Convergence Tests ( common ratio `|r| < 1` test )**
 - **Binomial Theorem**
 - **Proof by Principle of Mathematical Induction**
-
-- **Limits of Infinite Series**
 
 ## Trigonometry
 - **Radians as a Unit of Angle Measure**
@@ -93,8 +91,20 @@
     - Dot products, Projections
     - Motion in 2D and 3D
 
-## Combinatorics
-- **Permutations and Combinations**
+## Counting and Probability
+- **Permutations and Combinations**:
+    - **Permutations**:
+        - Permutations of distinct objects **with repetition**.
+        - Permutations of *r* objects chosen from *n* distinct objects **without repetition**.
+        - Permutations of *n* objects **with non-distinct (identical) elements**.
+    - **Combinations**:
+        - Combinations of *r* objects selected from a pool of *n* distinct objects.
+
+- **Probability**:
+    - Probability of an event *E* occurring given a sample space *S*.
+    - Probability for equally likely outcomes
+    - Probability for any two events or mutually exclusive events
+    - Probablility of complementary events
 
 ## Calculus
 - **Limits**:
@@ -103,6 +113,13 @@
     - ε-δ Definition of Limits
     - ε-δ Definition of left and right hand limits
     - ε-δ Definition of infinite limits
+- **Infinite Series**:
+    - Geometric Series
+    - Infinite Series
+    - Limits of Infinite Series
+    - Convergent and Divergent series
+    - Preliminary test/Divergence test
+    - Convergence tests by comparison
 
 ## Books Used
 - *Precalculus* by James Stewart
