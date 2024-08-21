@@ -113,13 +113,32 @@
     - ε-δ Definition of Limits
     - ε-δ Definition of left and right hand limits
     - ε-δ Definition of infinite limits
+- **Derivatives**:
+    - Definition of derivative
+    - Derivatives of:
+        - Polynomials
+        - Exponential and Logarithmic functions
+        - Trigonometric functions and inverse trigonometric functions
+    - Differentiation Rules:
+        - Chain rule
+        - Product rule, Quotient rule
+    - Implicit Differentiation
+- **Integrals**
+    - Definition of Definite Integral
+    - Indefinite integrals
+    - Integration Techniques:
+        - Substitution
+        - Integration by parts
+
 - **Infinite Series**:
     - Geometric Series
     - Infinite Series
     - Limits of Infinite Series
     - Convergent and Divergent series
     - Preliminary test/Divergence test
-    - Convergence tests by comparison
+    - Convergence tests:
+        - Comparison test
+        - Integral test
 
 ## Books Used
 - *Precalculus* by James Stewart
