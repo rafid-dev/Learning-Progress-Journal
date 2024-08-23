@@ -124,6 +124,7 @@
         - Product rule, Quotient rule
     - Implicit Differentiation
 - **Integrals**
+    - Riemann Sums
     - Definition of Definite Integral
     - Indefinite integrals
     - Integration Techniques:
