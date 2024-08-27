@@ -15,9 +15,7 @@
 - **Complex Numbers**:
     - Rectangular Form: `a + bi`
     - Properties: Magnitude, Argument
-    - Polar Form: `z = r(cos(θ) + i sin(θ)`
-    - Exponential Form: `z = re^{iθ}`
-    - De Moivre's Theorem: `z^n = r^n (cos(nθ) + i sin(nθ))`
+    - Polar Form / Exponential form
     - *k* *n*th Roots of Complex Numbers
 - **Polar Coordinates and Parametric Equations**
     - Graphing Spirals, Roses using Polar Coordinates
@@ -70,6 +68,13 @@
 - **Harmonic Motion, Damped Harmonic Motion**
     - Modelling harmonic motion using sinusodial functions
     - Modelling damped harmonic motion with amplitude of sinusodial functions as exponential decay like `e^-x cos(x)`
+
+## Complex Numbers and Hyperbolic functions
+    - Trigonometric Identities using De Moivre's Theorem
+    - Finding nth roots of unity
+    - Solving polynomial equations
+    - Complex Logarithms and Complex powers
+    - Hyperbolic Functions definitions using complex numbers
 
 ## Analytic Geometry
 - **Straight Lines**:
