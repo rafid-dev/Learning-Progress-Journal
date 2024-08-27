@@ -96,20 +96,13 @@
     - Dot products, Projections
     - Motion in 2D and 3D
 
-## Counting and Probability
-- **Permutations and Combinations**:
+**Permutations and Combinations**:
     - **Permutations**:
         - Permutations of distinct objects **with repetition**.
         - Permutations of *r* objects chosen from *n* distinct objects **without repetition**.
         - Permutations of *n* objects **with non-distinct (identical) elements**.
     - **Combinations**:
         - Combinations of *r* objects selected from a pool of *n* distinct objects.
-
-- **Probability**:
-    - Probability of an event *E* occurring given a sample space *S*.
-    - Probability for equally likely outcomes
-    - Probability for any two events or mutually exclusive events
-    - Probablility of complementary events
 
 ## Calculus
 - **Limits**:
