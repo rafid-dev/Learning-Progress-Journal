@@ -33,6 +33,7 @@ These foundational courses introduce key mathematical structures.
 **Prerequisites:** None  
 **Content Overview:**  
 - Real number system, sequences, and series  
+- Metric spaces: definitions, open and closed sets, neighborhoods  
 - Continuity, differentiability, Riemann integration  
 - Uniform convergence, power series  
 
@@ -51,7 +52,10 @@ Advanced topics that build upon Part 1.
 ## **Analysis II**
 **Prerequisites:** Analysis I  
 **Content Overview:**  
-- Metric spaces, completeness, compactness  
+- Multivariable calculus: partial derivatives, multiple integrals  
+- Introduction to differential forms and manifolds  
+- Generalized Stokes' theorem  
+- Metric spaces: completeness, compactness  
 - Function spaces, Arzelà–Ascoli theorem  
 - Fourier series, Lebesgue integration  
 
