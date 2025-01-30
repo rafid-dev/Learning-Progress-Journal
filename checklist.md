@@ -25,8 +25,8 @@ These foundational courses introduce key mathematical structures.
 ## 📌 **Algebra I**  
 🛠 **Prerequisites:** None  
 📖 **Content Overview:**  
-✅ Group theory: subgroups, cyclic groups, permutation groups  
-✅ Ring theory: rings, ideals, quotient rings  
+✅ Group theory: subgroups, cyclic groups, permutation groups, dihedral and alternating groups,  
+✅ Ring theory: rings, ideals, quotient rings, unique factorization domain, Euclidean domain, integral domain, maximal and prime ideals, rings of fractions.
 ✅ Field theory: fields, field extensions  
 
 ## 📌 **Analysis I**  
