@@ -1,5 +1,14 @@
 # Checklist for Pure Mathematics (with Dependencies)
 
+## 📌 Summarized Track Overview
+
+| **Track**           | **Core Topics** |
+|---------------------|----------------|
+| **Geometry Track**  | Differential Geometry of Curves & Surfaces, Manifolds, Riemannian Geometry, Algebraic Geometry |
+| **Number Theory Track**  | Algebraic Number Theory, Modular Forms, Elliptic Curves, Class Field Theory |
+| **Combined Track (Advanced Studies)**  | Homotopy Theory, Cohomology, Spectral Sequences, Sheaf Theory, Algebraic Topology II |
+---
+
 ## Core Subjects Part 1 (No Prerequisites)
 These foundational courses introduce key mathematical structures.
 
