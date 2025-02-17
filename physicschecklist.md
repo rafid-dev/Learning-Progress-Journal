@@ -32,7 +32,7 @@
 ---
 
 ### 📌 **3. Waves & Optics**  
-🛠 **Prerequisites:** Linear Algebra, Analysis I  
+🛠 **Prerequisites:** Linear Algebra, Analysis I, Fourier Analysis 
 📖 **Content Overview:**  
 - Mechanical & Electromagnetic Waves  
 - Interference, Diffraction  
@@ -45,7 +45,7 @@
 ---
 
 ### 📌 **4. Quantum Mechanics I**  
-🛠 **Prerequisites:** Linear Algebra, Analysis I  
+🛠 **Prerequisites:** Linear Algebra, Analysis I, Fourier Analysis
 📖 **Content Overview:**  
 - Wave-Particle Duality  
 - Schrödinger Equation  
@@ -60,7 +60,7 @@
 ---
 
 ### 📌 **5. Statistical Mechanics & Thermodynamics**  
-🛠 **Prerequisites:** Linear Algebra, Analysis I  
+🛠 **Prerequisites:** Linear Algebra, Analysis I, Ordinary Differential Equations
 📖 **Content Overview:**  
 - Laws of Thermodynamics  
 - Boltzmann Distribution  
@@ -76,7 +76,7 @@
 ## 🚀 **Core Subjects Part 2 (Intermediate Level - Advanced Mathematics Required)**  
 
 ### 📌 **6. Classical Mechanics II**  
-🛠 **Prerequisites:** Classical Mechanics I, Ordinary Differential Equations
+🛠 **Prerequisites:** Classical Mechanics I, Ordinary Differential Equations, PDEs (A little)
 📖 **Content Overview:**  
 - Poisson Brackets, Canonical Transformations  
 - Hamilton-Jacobi Theory  
@@ -90,7 +90,7 @@
 ---
 
 ### 📌 **7. Electromagnetism II**  
-🛠 **Prerequisites:** Electromagnetism I, Analysis II  
+🛠 **Prerequisites:** Electromagnetism I, Analysis II, Partial Differential Equations
 📖 **Content Overview:**  
 - Relativistic Electrodynamics  
 - Radiation & Wave Propagation  
@@ -103,7 +103,7 @@
 ---
 
 ### 📌 **8. Quantum Mechanics II**  
-🛠 **Prerequisites:** Quantum Mechanics I, Analysis II  
+🛠 **Prerequisites:** Quantum Mechanics I, Functional Analysis
 📖 **Content Overview:**  
 - Scattering Theory  
 - Path Integrals  
@@ -117,7 +117,7 @@
 ---
 
 ### 📌 **9. First Course in General Relativity**  
-🛠 **Prerequisites:** Electromagnetism I, Classical Mechanics I, Analysis I, Linear Algebra
+🛠 **Prerequisites:** Electromagnetism I, Classical Mechanics I, Analysis I, Linear Algebra, Manifolds (Preferred but not required)
 📖 **Content Overview:**  
 - Principle of Equivalence
 - Curved Spacetime Concepts
@@ -146,7 +146,7 @@
 - *Gravitation* - Misner, Thorne, Wheeler
 
 ### 📌 **11. Quantum Field Theory I**  
-🛠 **Prerequisites:** Quantum Mechanics II
+🛠 **Prerequisites:** Quantum Mechanics II, Functional Analysis, Partial Differential Equations
 📖 **Content Overview:**  
 - Classical Field Theory, Noether’s Theorem  
 - Second Quantization, Feynman Diagrams  

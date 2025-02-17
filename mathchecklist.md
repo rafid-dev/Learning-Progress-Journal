@@ -37,11 +37,12 @@ These foundational courses introduce key mathematical structures.
 📖 **Content Overview:**  
 - Real number system, sequences, and series  
 - Metric spaces: definitions, open and closed sets, neighborhoods  
-- Continuity, differentiability, Riemann integration  
+- Limits, Continuity, Differentiation, Riemann integration  
 - Uniform convergence, power series  
 - Introduction to differential forms and Stokes’ theorem  
 
 📚 **Books:**  
+- *Calculus* - Michael Spivak
 - *Understanding Analysis* – Abbott  
 - *Real Mathematical Analysis* – Pugh  
 - *Principles of Mathematical Analysis (Baby Rudin)* – Rudin  
@@ -111,6 +112,46 @@ These foundational courses introduce key mathematical structures.
 - *Differential Equations, Dynamical Systems and an Introduction to Chaos* - Hirsch, Smale, Devany
 - *Ordinary Differential Equations* - Arnold
 
+### 📌 **Fourier Analysis (Central to Physics & PDEs)**  
+🛠 **Prerequisites:** Analysis I, Linear Algebra  
+📖 **Content Overview:**  
+- Fourier series and integrals  
+- Convergence of Fourier series  
+- Fourier transform & applications in physics  
+- Distributions and generalized functions  
+
+📚 **Books:**  
+- *Fourier Analysis: An Introduction* – Stein & Shakarchi  
+
+---
+
+### 📌 **Functional Analysis (Foundation for Quantum Mechanics & PDEs)**  
+🛠 **Prerequisites:** Analysis II, Linear Algebra  
+📖 **Content Overview:**  
+- Banach and Hilbert spaces  
+- Operators, Spectral Theorem  
+- Hahn-Banach Theorem, Open Mapping Theorem  
+- Applications to quantum mechanics  
+
+📚 **Books:**  
+- *Introductory Functional Analysis with Applications* – Kreyszig  
+- *A Course in Functional Analysis* – Conway  
+- *Functional Analysis* – Rudin  
+
+---
+
+### 📌 **Partial Differential Equations (Essential for Physics & Engineering)**  
+🛠 **Prerequisites:** Fourier Analysis, Functional Analysis  
+📖 **Content Overview:**  
+- Classification of PDEs (Elliptic, Parabolic, Hyperbolic)  
+- Laplace, Heat, and Wave Equations  
+- Green’s Functions, Characteristics Method  
+- Sobolev Spaces and Weak Solutions  
+
+📚 **Books:**  
+- *Partial Differential Equations* – Evans  
+- *Fourier Series and Boundary Value Problems* – Brown & Churchill  
+- *Introduction to Partial Differential Equations* – Folland  
 
 ### 📌 **Algebraic Number Theory**  
 🛠 **Prerequisites:** Algebra I  
