@@ -32,7 +32,7 @@
 ---
 
 ### 📌 **3. Waves & Optics**  
-🛠 **Prerequisites:** Linear Algebra, Analysis I, Fourier Analysis 
+🛠 **Prerequisites:** Linear Algebra, Analysis I
 📖 **Content Overview:**  
 - Mechanical & Electromagnetic Waves  
 - Interference, Diffraction  
