@@ -40,7 +40,7 @@
 
 📚 **Books:**  
 - *Optics* – Eugene Hecht  
-- *The Physics of Vibrations and Waves* – H. John Pain  
+- *The Physics of Waves* - Howard Georgi
 
 ---
 
