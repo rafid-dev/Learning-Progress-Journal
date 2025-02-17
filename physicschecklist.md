@@ -1,4 +1,6 @@
-## 🏆 **Core Subjects Part 1 (Undergraduate Level - No Prerequisites)**  
+# 📌 **Checklist Theoretical Physics (with Dependencies and Books)**
+
+## 🏆 **Core Subjects Part 1 (Undergraduate Level - No Physical Prerequisites)**  
 
 ### 📌 **1. Classical Mechanics**  
 🛠 **Prerequisites:** Linear Algebra, Analysis I  
