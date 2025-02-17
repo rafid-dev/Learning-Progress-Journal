@@ -119,13 +119,14 @@
 ### 📌 **9. First Course in General Relativity**  
 🛠 **Prerequisites:** Electromagnetism I, Classical Mechanics I, Analysis I, Linear Algebra
 📖 **Content Overview:**  
-- Tensors & Curved Spacetime  
-- Einstein’s Field Equations  
-- Black Hole Physics & Gravitational Waves  
-- Cosmological Models  
+- Principle of Equivalence
+- Curved Spacetime Concepts
+- Introduction to Einstein's Field Equations
+- Basic Black Hole Solutions
 
 📚 **Books:**  
 *A First Course in General Relativity* – Bernard Schutz 
+*Spacetime and Geometry* - Sean Caroll
 
 ---
 
@@ -134,17 +135,18 @@
 ### 📌 **10. General Relativity**  
 🛠 **Prerequisites:** Manifolds, Differential Geometry, Electromagnetism II
 📖 **Content Overview:**  
-- Tensors & Curved Spacetime  
-- Einstein’s Field Equations  
-- Black Hole Physics & Gravitational Waves  
-- Cosmological Models  
+- In-depth Study of Einstein's Field Equations
+- Advanced Black Hole Physics
+- Gravitational Waves
+- Cosmological Models
 
 📚 **Books:**  
 - *Spacetime and Geometry* – Sean Carroll  
 - *General Relativity* – Robert Wald
+- *Gravitation* - Misner, Thorne, Wheeler
 
 ### 📌 **11. Quantum Field Theory I**  
-🛠 **Prerequisites:** Quantum Mechanics II, Special Relativity  
+🛠 **Prerequisites:** Quantum Mechanics II
 📖 **Content Overview:**  
 - Classical Field Theory, Noether’s Theorem  
 - Second Quantization, Feynman Diagrams  
